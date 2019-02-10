@@ -1,0 +1,57 @@
+# dependencies
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+
+# misc
+npm-debug.log
+package.lock
+
+# example
+/quick-start
+
+# tests
+/test
+/coverage
+/.nyc_output
+
+# dist
+/dist
+
+.DS_Store
+.env.local
+.env.local.*
+
+clients/**
+.history
+
+# uploaded files
+files/**
+
+main.schema.graphql
+
+package-lock.json
+
+yarn-error.log
+
+nohup.*
+
+!.credentials/*.json
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+
+
+.env
+.env.*
+.env.local.*
+
+logger/combined.json
+logger/error.json
+
+.gitlab
+.vscode
+
+.git
