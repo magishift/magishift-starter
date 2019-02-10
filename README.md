@@ -13,7 +13,7 @@
 # you can change .env.local as you wish since it will not be pushed into repo
 ```
 
-### Nodejs Module
+### Install all dependencies
 
 ```bash
 $ yarn install
@@ -23,6 +23,11 @@ $ yarn install
 
 ```bash
 $ docker-compose up -d
+```
+
+## Start application
+
+```bash
 $ yarn start
 ```
 
